@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-ajay-panigrahi/Backend.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Ajay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-ajay-panigrahi/Backend/issues"
+  },
+  "homepage": "https://github.com/the-ajay-panigrahi/Backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
